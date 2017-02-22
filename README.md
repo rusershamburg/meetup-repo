@@ -11,10 +11,10 @@
 
 ## Lightning talks:
 
-1. Data science for social impact - Janko Thyson
+1. [Data science for social impact](https://github.com/rusershamburg/meetup-8/blob/master/20170221_data_science_for_social_impact.pdf) - Janko Thyson
 
 2. [Interactive spatial clusters](https://github.com/rusershamburg/meetup-8/blob/master/20170221_interactive_spatial_clusters.pdf) - Malte Grosser
 
-## AOB: 
+## AOB:
 
 We're applying for sponsorship- what does this mean for you?
