@@ -5,7 +5,7 @@
 
 ## Talks:
 
-1. "Philosophie hinter dem „tidyverse“-Ansatz" - Daniel Lüdecke
+1. [Philosophie hinter dem „tidyverse“-Ansatz](https://github.com/rusershamburg/meetup-8/blob/master/20170221_data_transformation_and_exploration.pdf) - Daniel Lüdecke
 
 2. "WhatsappR Package" - Boris L.S.
 
