@@ -1,7 +1,7 @@
 # 8th (semi) quarterly R meetup
 
 *21.02.2017 · 19:00*
-*Social Impact Lab*
+*[Social Impact Lab](http://hamburg.socialimpactlab.eu/kontakt)*
 
 Agenda:
 
