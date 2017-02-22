@@ -11,7 +11,7 @@
 
 ## Lightning talks:
 
-1. Social coding - Janko Thyson
+1. Data science for social impact - Janko Thyson
 
 2. [Interactive spatial clusters](https://github.com/rusershamburg/meetup-8/blob/master/20170221_interactive_spatial_clusters.pdf) - Malte Grosser
 
