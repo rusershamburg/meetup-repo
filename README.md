@@ -61,7 +61,7 @@ Filming of Talks.
 
 ### Talks:
 
-1. [Data Transformation in R - The Tidyverse-Approach of Organizing Data](https://github.com/rusershamburg/meetup-8/blob/master/20170221_data_transformation_and_exploration.pdf) - Daniel Lüdecke
+1. [Data Transformation in R - The Tidyverse-Approach of Organizing Data](https://github.com/rusershamburg/meetup-repo/blob/master/meetup-08/20170221_data_transformation_and_exploration.pdf) - Daniel Lüdecke
 
 2. [WhatsappR Package](https://github.com/rusershamburg/meetup-8/blob/master/20170221_WhatsAppR_package.pdf) - Boris L.S.
 
