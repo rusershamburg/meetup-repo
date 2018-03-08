@@ -63,13 +63,13 @@ Filming of Talks.
 
 1. [Data Transformation in R - The Tidyverse-Approach of Organizing Data](https://github.com/rusershamburg/meetup-repo/blob/master/meetup-08/20170221_data_transformation_and_exploration.pdf) - Daniel Lüdecke
 
-2. [WhatsappR Package](https://github.com/rusershamburg/meetup-8/blob/master/20170221_WhatsAppR_package.pdf) - Boris L.S.
+2. [WhatsappR Package](https://github.com/rusershamburg/meetup-repo/blob/master/meetup-08/20170221_WhatsAppR_package.pdf) - Boris L.S.
 
 ### Lightning talks:
 
-1. [Data science for social impact](https://github.com/rusershamburg/meetup-8/blob/master/20170221_data_science_for_social_impact.pdf) - Janko Thyson
+1. [Data science for social impact](https://github.com/rusershamburg/meetup-repo/blob/master/meetup-08/20170221_data_science_for_social_impact.pdf) - Janko Thyson
 
-2. [Interactive spatial clusters](https://github.com/rusershamburg/meetup-8/blob/master/20170221_interactive_spatial_clusters.pdf) - Malte Grosser
+2. [Interactive spatial clusters](https://github.com/rusershamburg/meetup-repo/blob/master/meetup-08/20170221_interactive_spatial_clusters.pdf) - Malte Grosser
 
 ### AOB:
 
