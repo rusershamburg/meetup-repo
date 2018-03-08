@@ -46,7 +46,7 @@
 
 ### Lightning talks:
 
-1. [snakecase-pkg](20170516_snakecase_pkg.pdf) - Malte Grosser
+1. [snakecase-pkg](https://github.com/rusershamburg/meetup-repo/blob/master/meetup-09/20170516_snakecase_pkg.pdf) - Malte Grosser
 
 2. [Intro to blogdown-pkg](https://github.com/henningsway/Tokyo.R) - Henning Bumann
 
