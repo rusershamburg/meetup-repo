@@ -27,11 +27,11 @@
 
 1. [crossword-pkg](https://github.com/petermeissner/crossword) - Peter Meißner
 
-2. [r2anki-pkg](r2anki_presentation.pdf) - Henning Bumann ([Link to r2anki-Repository](https://github.com/henningsway/r2anki))
+2. [r2anki-pkg](https://github.com/rusershamburg/meetup-repo/blob/master/meetup-10/r2anki_presentation.pdf) - Henning Bumann ([Link to r2anki-Repository](https://github.com/henningsway/r2anki))
 
 3. [Visualization of usage of bike sharing network in Hamburg (StadtRAD)](https://github.com/kruse-alex/bike_sharing) - Alex Kruse 
 
-4. [Advanced R Solutions](AdvancedRSolutions_LightningTalk_UseR2017.pdf) - Malte Grosser
+4. [Advanced R Solutions](https://github.com/rusershamburg/meetup-repo/blob/master/meetup-10/AdvancedRSolutions_LightningTalk_UseR2017.pdf) - Malte Grosser
 
 
 ## 9th quarterly R meetup
