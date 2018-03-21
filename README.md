@@ -10,7 +10,7 @@
 
 ### Workshop:
 
-1. [Free Workshop on Deep Learning with R] - Michał Maj
+1. Free Workshop on Deep Learning with R - Michał Maj
 
 ## 11th quarterly R meetup
 
