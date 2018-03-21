@@ -1,5 +1,17 @@
 # Overview over Talks given at rusershamburg
 
+## 12th quarterly R meetup
+
+*Mar 20, 2018 · 18:00 @ [Zalando adtech lab](https://www.zalando-adtech-lab.com/)*
+
+### AOB:
+
+[12th RUsersHH Meetup](https://github.com/rusershamburg/meetup-repo/blob/master/meetup-12/RUsersHH12thMeetup.pdf)
+
+### Workshop:
+
+1. [Free Workshop on Deep Learning with R] - Michał Maj
+
 ## 11th quarterly R meetup
 
 *Dec 7, 2017 · 19:00 @ [JobMatchMe](https://www.jobmatch.me/)*
