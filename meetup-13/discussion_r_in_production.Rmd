@@ -1,0 +1,37 @@
+---
+title: "R in prduction"  # icon fa?
+subtitle: "Open Diuscussion"
+author: "@rusershamburg"
+date: "2018/06/06 @ WeWork"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle
+
+# Production
+
+### packrat
+---
+class: center, middle
+
+# Testing
+
+### how do you do it?
+
+---
+class: center, middle
+
+# Working in a Team
+
+### roles, responsibilities, ownership?
+
