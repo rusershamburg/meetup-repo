@@ -5,7 +5,10 @@
 - how do you monitor models
 - what features do you miss in R
 - what was the biggest failure?
-- etc...
+- how to deploy your R models within a docker container?
+- how to assure CI/CD with R: packages/enviroment to be up-to-date?
+- what are the best practices to scale your R model in-prodction: 10 -> 100 -> 1000 -> 10000 ccu?
+etc...
 
 
 Please add your questions via PR, so that we can group them and discuss on the 6th of june.
