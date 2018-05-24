@@ -6,6 +6,12 @@
 - how to assure CI/CD with R: packages/enviroment to be up-to-date?
 - what are the best practices to scale your R model in-prodction: 10 -> 100 -> 1000 -> 10000 ccu?
 
+- What is R in production? 
+- Is R in production only models? 
+- Are scripts doing data pipelining and running each minute Rin production?
+- Is a Shiny-App 'R in production' when 20 people use it every day and rely on the information? 
+- How about shared tools - e.g. shared via package - how do these differ from code written for ad-hoc-analyis?
+
 ### deployment
 - how do you deploy models?
 - how to deploy your R models within a docker container?
