@@ -1,10 +1,10 @@
 ## please add your questions below!
 
 ### general questions
-- what features do you miss in R
-- what was the biggest failure?
-- how to assure CI/CD with R: packages/enviroment to be up-to-date?
-- what are the best practices to scale your R model in-prodction: 10 -> 100 -> 1000 -> 10000 ccu?
+- What features do you miss in R?
+- What was the biggest failure?
+- How to assure CI/CD with R: packages/enviroment to be up-to-date?
+- What are the best practices to scale your R model in-prodction: 10 -> 100 -> 1000 -> 10000 ccu?
 
 - What is R in production? 
 - Is R in production only models? 
@@ -13,12 +13,14 @@
 - How about shared tools - e.g. shared via package - how do these differ from code written for ad-hoc-analyis?
 
 ### deployment
-- how do you deploy models?
-- how to deploy your R models within a docker container?
+- How do you deploy models?
+- How to deploy your R models within a docker container?
 
 ### quality assurance
-- how do you test code
-- how do you monitor models
+- How do you test code?
+- How do you test data?
+- How do you test models?
+- How do you monitor models?
 
 
 Please add your questions via PR, so that we can group them and discuss on the 6th of june.
